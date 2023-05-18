@@ -7,8 +7,8 @@ const doc = {
 };
 
 const state = {
-    unsuccessful: 0,
-    unsuccessfulPercent: 0
+    unsuccessful: null,
+    unsuccessfulPercent: null
 };
 
 window.addEventListener('load', () => {
